@@ -1,4 +1,4 @@
-package leetcode.findSubstring;
+package findSubstring;
 
 import java.util.ArrayList;
 import java.util.HashMap;

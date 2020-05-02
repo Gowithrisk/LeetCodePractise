@@ -1,3 +1,5 @@
+package no84largestRectangleArea;
+
 public class Solution {
     public int largestRectangleArea(int[] heights) {
 

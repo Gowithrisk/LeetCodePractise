@@ -1,4 +1,4 @@
-package leetcode.numberAdd;
+package numberAdd;
 
 public class ListNode {
 

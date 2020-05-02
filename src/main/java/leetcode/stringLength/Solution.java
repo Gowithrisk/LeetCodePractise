@@ -1,4 +1,4 @@
-package leetcode.stringLength;
+package stringLength;
 
 public class Solution {
 	public int lengthOfLongestSubstring(String s) {
