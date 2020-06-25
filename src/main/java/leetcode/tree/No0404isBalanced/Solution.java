@@ -1,4 +1,4 @@
-package tree.No0404isBalanced;
+package leetcode.tree.No0404isBalanced;
 
 import java.util.LinkedList;
 import java.util.Queue;

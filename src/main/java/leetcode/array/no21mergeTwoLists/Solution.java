@@ -1,4 +1,4 @@
-package array.no21mergeTwoLists;
+package leetcode.array.no21mergeTwoLists;
 
 public class Solution {
 
